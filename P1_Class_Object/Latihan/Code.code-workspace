@@ -1,0 +1,38 @@
+{
+	"folders": [
+		{
+			"path": "../../.."
+		},
+		{
+			"name": "LED Test",
+			"path": "../../II2260/LED Test"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"stdlib.h": "c",
+			"stdio.h": "c",
+			"point.h": "c",
+			"cmath": "c",
+			"list.h": "c",
+			"mesinkarakter.h": "c",
+			"mesinkata.h": "c",
+			"boolean.h": "c",
+			"queue_song.h": "c",
+			"stack.h": "c",
+			"listlinier.h": "c",
+			"quit.h": "c",
+			"playlist.h": "c",
+			"map.h": "c",
+			"main.h": "c",
+			"play.h": "c",
+			"welcome.h": "c",
+			"save.h": "c",
+			"showlist.h": "c",
+			"mesinbaris.h": "c",
+			"konfigurasi.h": "c",
+			"status.h": "c",
+			"user.h": "c"
+		}
+	}
+}
