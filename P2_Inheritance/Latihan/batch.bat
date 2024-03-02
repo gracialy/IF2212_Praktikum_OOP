@@ -1,5 +1,5 @@
 @echo off
-set filename=KebunBinatang
+set filename=DuniaRobot
 
 rem Compile the Java program
 javac %filename%.java
